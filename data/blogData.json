@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Getting Started with Web Development",
+        "content": "In this blog post, we'll cover the basics of web development including HTML, CSS, and JavaScript.",
+        "date": "2023-08-01"
+    },
+    {
+        "id": 2,
+        "title": "The Art of Photography",
+        "content": "Discover the techniques and tips to capture stunning photographs that tell stories.",
+        "date": "2023-07-25"
+    },
+    {
+        "id": 3,
+        "title": "Healthy Eating Habits",
+        "content": "Learn about the importance of maintaining a balanced diet and incorporating healthy eating habits into your lifestyle.",
+        "date": "2023-07-18"
+    },
+    {
+        "id": 4,
+        "title": "Exploring Ancient Civilizations",
+        "content": "Delve into the mysteries of ancient civilizations, from the pyramids of Egypt to the Inca temples of South America.",
+        "date": "2023-07-10"
+    },
+    {
+        "id": 5,
+        "title": "Mastering Productivity and Time Management",
+        "content": "Discover proven strategies for boosting your productivity and effectively managing your time to achieve your goals.",
+        "date": "2023-06-28"
+    },
+    {
+        "id": 6,
+        "title": "The World of Sci-Fi Literature",
+        "content": "Explore the realms of science fiction literature, from dystopian futures to intergalactic adventures.",
+        "date": "2023-06-15"
+    },
+    {
+        "id": 7,
+        "title": "A Guide to Mindfulness Meditation",
+        "content": "Learn how to practice mindfulness meditation and cultivate a sense of inner peace and mental clarity.",
+        "date": "2023-06-05"
+    },
+    {
+        "id": 8,
+        "title": "Traveling on a Budget",
+        "content": "Get expert tips on how to travel and explore the world without breaking the bank.",
+        "date": "2023-05-22"
+    },
+    {
+        "id": 9,
+        "title": "The Evolution of Video Games",
+        "content": "Trace the evolution of video games from classic arcade hits to modern open-world masterpieces.",
+        "date": "2023-05-10"
+    },
+    {
+        "id": 10,
+        "title": "Unveiling the Wonders of the Universe",
+        "content": "Embark on a journey through space and learn about the fascinating phenomena of the cosmos.",
+        "date": "2023-04-28"
+    }
+]

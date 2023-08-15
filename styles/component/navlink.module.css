@@ -1,0 +1,13 @@
+.navLink {
+    color: #d4d4d4;
+    appearance: none;
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+}
+
+.navLink:hover {
+    color: white;
+}
